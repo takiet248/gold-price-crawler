@@ -4,4 +4,4 @@ Gold Price Web Scraper (Web Scraping, Data Processing)
 * Collected details including gold type, buy price, and sell price from different sources.
 * Processed and unified the data into a standardized format for consistency.
 * Stored the structured data in a CSV file for further analysis.
-* Tech: Python, BeautifulSoup/Scrapy, Requests, Pandas.
+* Tech: Python, BeautifulSoup, Requests, Pandas.
